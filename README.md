@@ -19,3 +19,13 @@ In other words, a user with certain demographics may have made more than one pur
 - GENDER: CUSTOMER'S GENDER
 - COUNTRY: CUSTOMER COUNTRY
 - AGE: CUSTOMER AGE
+
+# Libraries
+
+```
+pandas
+```
+
+# Author
+
+**Talha Nebi Kumru**
