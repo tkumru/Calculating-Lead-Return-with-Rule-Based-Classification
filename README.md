@@ -1,9 +1,8 @@
 # Calculating-Lead-Return-with-Rule-Based-Classification
-In this project, I calculate average income from upcoming customer. I use customer's preferences for calculating. I will make level-based new customer definitions.
-# Calculating Potential Customer Return with Rule Based Classification
 
 ![0_PNP8NN84PaZP7VSs](https://user-images.githubusercontent.com/73841520/120351719-c5c35680-c308-11eb-9906-ac4a3a4c3b64.jpg)
 
+In this project, I calculate average income from upcoming customer. I use customer's preferences for calculating. I will make level-based new customer definitions.
 
 # What is the problem?
 - A game company wants to create new customer definitions (personas) based on level by using some features of its customers, to create segments according to these new customer definitions and to estimate how much new customers can earn according to these segments.
